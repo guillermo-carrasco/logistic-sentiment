@@ -14,6 +14,12 @@ into a train and a test dataset. Each record contains the following fields:
 | Sentiment | sentiment (1-positive, 0-negative)|
 | SentimentText | text of the twit|
 
+## Requirements
+This notebook will run in Python >= 3.5. The following packages are required:
+
+* pandas
+* scikit-learn 
+
 ## Limitations
 Because the training set contains only English twits, this classifier will only
 work with **English twits**.
