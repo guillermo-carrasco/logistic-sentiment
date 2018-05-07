@@ -14,6 +14,17 @@ into a train and a test dataset. Each record contains the following fields:
 | Sentiment | sentiment (1-positive, 0-negative)|
 | SentimentText | text of the twit|
 
+## Web app
+You can go straight ahead and try out the algorithm with a small web app I have
+included in this repository, just run:
+
+    cd site
+    python app.py
+
+Then open a browser in the default address (`http://127.0.0.1:5000/`) and play around:
+
+![web](./images/web_app.png)
+
 ## Requirements
 This notebook will run in Python >= 3.5. The following packages are required:
 
