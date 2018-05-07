@@ -17,8 +17,11 @@ into a train and a test dataset. Each record contains the following fields:
 ## Requirements
 This notebook will run in Python >= 3.5. The following packages are required:
 
+* bokeh
+* nltk
+* numpy
 * pandas
-* scikit-learn 
+* scikit-learn
 
 ## Limitations
 Because the training set contains only English twits, this classifier will only
