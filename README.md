@@ -29,6 +29,7 @@ Then open a browser in the default address (`http://127.0.0.1:5000/`) and play a
 This notebook will run in Python >= 3.5. The following packages are required:
 
 * bokeh
+* flask
 * nltk
 * numpy
 * pandas
