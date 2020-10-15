@@ -1,6 +1,6 @@
 # Sentiment Analysis with Logistic Regression
 
-This repository contains a [jupyter][jupyter] notebook and the necessary data to implement
+This repository contains a [jupyter][jupyter] Notebook and the necessary data to implement
 sentiment analysis of tweets using Logistic Regression. Please open the notebook
 for more information.
 
